@@ -26,6 +26,7 @@ public class MainActivity extends Activity {
 	
 	
 	public void onGetPriceClick(View view) {
+		
 		Log.w("StockPebble", "StockPebble The button has been clicked");
 		GoogleFinanceASyncTask task = new GoogleFinanceASyncTask(this);
         Intent i = this.getIntent();
