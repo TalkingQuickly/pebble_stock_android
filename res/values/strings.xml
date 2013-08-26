@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Stock Pebble</string>
+    <string name="action_settings">Rebeccas</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_rebecca">Hello Rebecca</string>
+    <string name="ftse_price">The FTSE Is At:</string>
+
+</resources>
